@@ -8,6 +8,7 @@ This program prompts the user for a score between 0.0 and 1.0 and prints out a g
 ## 🚀 Key Features
 - **Nested Conditions:** Uses `if / elif / ` to determine grade range.
 - **Error Handling:** Uses `try / except` to catch invalid text input and out-of-bound numbers.
+- **functions:** uses `user defined function and return`
 
 ## 🛠️ Built With
 - Python 3
